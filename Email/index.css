@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Sen:wght@400..800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Rowdies:wght@300;400;700&family=Sen:wght@400..800&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Barlow", sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+.fontrawdies{
+  font-family: "Rowdies", sans-serif;
+}
+.flexdirectioncolumn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.email-des p {
+  font-size: 0.7rem;
+  line-height: 1.2rem;
+  color: #5e5e5e;
+}
+.email-des ul li a {
+  color: #2375e2;
+  font-size: 0.8rem;
+}
+.email-des button a {
+  color: #ffffff;
+}
+.footer .icon ul li {
+  display: inline-block;
+  margin: 5px;
+}
+.footer .icon ul li a {
+  font-size: 1.5rem;
+  border-radius: 50%;
+}
+.footer .icon ul li a i {
+  color: #000000;
+}
+.footer h5{
+  
+}
